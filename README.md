@@ -4,6 +4,9 @@
 INTERFACE.COM : A Brief Overview
 
 
+<img width="1098" alt="image" src="https://github.com/sundeepakota/Azure-Network-Design/assets/131495250/685b75d2-a32d-4017-901a-9b31cb6a262e">
+
+
 Company Description:
 
 InterfaceTech is a fictitious e-commerce enterprise with a specialisation in electronic merchandise, serving primarily the Europe market. To ensure resilience and top-tier performance, the infrastructure is anchored by dual primary data centers.
